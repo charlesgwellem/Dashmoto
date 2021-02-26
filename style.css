@@ -1,0 +1,26 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("C:/Users/charl/projects/Dashmoto/images/pattern.webp");
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
+
+.cost {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
